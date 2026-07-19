@@ -36,71 +36,67 @@ I work across the stack with:
 ## Core Skills
 
 ### AI & Automation
-- Agentic AI
-- AI infrastructure
-- AI agents
-- LLM applications
-- LangChain
-- RAG systems
-- NLP
-- Computer vision
-- Deep learning
-- Machine learning
-- MLOps
-- Expert systems
-- Vector databases
-
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF6F00?style=for-the-badge)
+![AI infrastructure](https://img.shields.io/badge/AI%20infrastructure-000000?style=for-the-badge)
+![AI agents](https://img.shields.io/badge/AI%20agents-FF6F00?style=for-the-badge)
+![LLM applications](https://img.shields.io/badge/LLM%20applications-3776AB?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain)
+![RAG systems](https://img.shields.io/badge/RAG%20systems-FF6F00?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-3776AB?style=for-the-badge)
+![Computer vision](https://img.shields.io/badge/Computer%20vision-000000?style=for-the-badge)
+![Deep learning](https://img.shields.io/badge/Deep%20learning-FF6F00?style=for-the-badge)
+![Machine learning](https://img.shields.io/badge/Machine%20learning-3776AB?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-239120?style=for-the-badge&logo=machine-learning)
+![Expert systems](https://img.shields.io/badge/Expert%20systems-000000?style=for-the-badge)
+![Vector databases](https://img.shields.io/badge/Vector%20databases-DE0000?style=for-the-badge&logo=qdrant)
 
 ### Blockchain & Web3
-- Solidity
-- Smart contracts
-- Solana
-- Anchor
-- Polkadot
-- Substrate
-- Rust-based blockchain development
-- Pallet development
-- Web3 applications
-- Web3 games
-- P2P systems
-- BFT systems
-- JSON-RPC
-
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
+![Smart contracts](https://img.shields.io/badge/Smart%20contracts-363636?style=for-the-badge)
+![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana)
+![Anchor](https://img.shields.io/badge/Anchor-000000?style=for-the-badge&logo=anchor)
+![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot)
+![Substrate](https://img.shields.io/badge/Substrate-FF4C3C?style=for-the-badge&logo=substrate)
+![Rust-based blockchain development](https://img.shields.io/badge/Rust--based%20Blockchain-000000?style=for-the-badge&logo=rust)
+![Pallet development](https://img.shields.io/badge/Pallet%20development-FF4C3C?style=for-the-badge)
+![Web3 applications](https://img.shields.io/badge/Web3%20Apps-14F195?style=for-the-badge)
+![Web3 games](https://img.shields.io/badge/Web3%20Games-E6007A?style=for-the-badge)
+![P2P systems](https://img.shields.io/badge/P2P%20systems-000000?style=for-the-badge)
+![BFT systems](https://img.shields.io/badge/BFT%20systems-363636?style=for-the-badge)
+![JSON-RPC](https://img.shields.io/badge/JSON--RPC-363636?style=for-the-badge)
 
 ### Full-Stack Engineering
-- Python
-- Rust
-- TypeScript
-- React
-- Django
-- FastAPI
-- Flask
-- Node.js
-- Express.js
-- Next.js
-- React Native
-- Tailwind
-- PostgreSQL
-- Redis
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 
 ### Infrastructure & Systems
-- Kubernetes
-- Docker
-- K3S
-- Linux
-- CI/CD
-- GitLab CI/CD
-- GitHub Actions
-- AWS
-- GCP
-- Azure
-- Serverless systems
-- Cloud-native architecture
-- Distributed systems
-- Real-time synchronization
-- Performance optimization
-
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![K3S](https://img.shields.io/badge/K3S-326CE5?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-FE9401?style=for-the-badge)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Serverless systems](https://img.shields.io/badge/Serverless-326CE5?style=for-the-badge)
+![Cloud-native architecture](https://img.shields.io/badge/Cloud--Native-232F3E?style=for-the-badge)
+![Distributed systems](https://img.shields.io/badge/Distributed%20Systems-000000?style=for-the-badge)
+![Real-time synchronization](https://img.shields.io/badge/Real--time%20Sync-000000?style=for-the-badge)
+![Performance optimization](https://img.shields.io/badge/Perf%20Optimization-000000?style=for-the-badge)
 
 ### Leadership
 - Technical strategy
