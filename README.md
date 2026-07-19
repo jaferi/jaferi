@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <strong>Senior AI / Blockchain Engineer and Technical Lead</strong><br/>
+  <strong>Senior AI x Blockchain Engineer and Technical Lead</strong><br/>
   Building production-grade AI systems, blockchain infrastructure, and full-stack products with measurable business impact.
 </p>
 
@@ -109,58 +109,35 @@ I work across the stack with:
 
 ---
 
-## Selected Work
+## Selected Projects
 
-### AI Systems
-I have built custom code-based AI agents and automation systems that solve real operational problems:
+### 🤖 AI Agentic Systems
+*I build specialized AI agents that don't just chat—they execute, analyze, and manage operational workflows.*
 
-- **Smart lead collection agent**
-  - Extracts target-market data from Instagram groups
-  - Analyzes competitors, gender, interests, and audience signals
-  - Delivers structured output directly into Google Sheets for sales teams
+*   **Agentic Lead Discovery & Sales Pipeline:** Created an intelligent agent to scrape target demographics from social platforms (Instagram). It extracts competitors, interests, and audience signals, providing direct, actionable leads into Google Sheets to shorten sales cycles.
+*   **ERP Order Process Automation:** Engineered a standardized intake agent that sanitizes unstructured order forms. It enforces business rules and automatically pushes data into internal ERP systems, eliminating manual data entry and human error.
+*   **Autonomous Internal Manager:** Built a coordination agent that syncs with project management tools (Trello) and databases. It actively manages task status, follows up with team members, and ensures alignment across internal operational software.
+*   **Geospatial Business Discovery:** Developed an agent that harvests business data from mapping platforms (Google Maps/Nishan). It synchronizes real-world location data into operational spreadsheets for automated territory mapping and market research.
+*   **Predictive Analytics Agent:** Designed a custom agent for sports/data forecasting that scrapes raw data, cleans it, and executes complex prediction models, providing automated insights into structured formats.
 
-- **Order-process improvement agent**
-  - Standardizes order intake from ordinary forms
-  - Converts unstructured input into executable ERP workflows
-  - Speeds up operational processing for a custom-printing business
 
-- **Internal manager agent**
-  - Tracks tasks and coordinates with execution teams
-  - Works with Trello, Google Sheets, and internal databases
-  - Helps teams keep work visible and actionable
+### 🏗️ Enterprise Platforms
+*Architecting resilient systems that solve complex scaling and infrastructure problems.*
 
-- **Football prediction agent**
-  - Collects and analyzes sports data
-  - Runs prediction logic from scraped sources and spreadsheets
-  - Automates data handling and model execution
+*   **Zebellu AI (Agentic Marketplace):** A governance and orchestration layer designed to transform LLMs from passive chatbots into active team members. It focuses on human-AI collaboration protocols and operational accountability.
+*   **CABLO (Serverless Infrastructure):** A cloud-native DevOps engine that abstracts infrastructure management. It provides serverless compute, automated CI/CD pipelines, and registry services to allow teams to focus on deployment velocity rather than cluster configuration.
+*   **DASHPAAN (Dynamic BI & Operations):** An engine-driven analytics platform that uses JSON-driven UI generation to turn database queries into actionable dashboards. It features proactive error-detection logic that automatically triggers task creation.
+*   **VIRDAR (Payment & Synchronization):** A robust payment processing architecture built for horizontal scale. It solves the challenge of real-time state synchronization across devices while maintaining enterprise-grade security and encryption standards.
+*   **MONID (Decentralized Identity):** A blockchain-based trust architecture for KYC/KYB compliance. It provides enterprise-ready digital identity solutions, leveraging blockchain as a source of truth for consent, access control, and identity verification.
 
-- **Business discovery agent**
-  - Finds target businesses from map and directory sources
-  - Synchronizes findings into Google Sheets
-  - Supports lead generation and market research workflows
 
-### Blockchain Systems
-I build blockchain software where protocol design, security, and runtime correctness matter:
+### ⛓️ Blockchain & Web3
+*Developing protocols and decentralized systems for high-trust environments.*
 
-- **Custom Substrate-based blockchain components**
-  - Protocol-level features and chain-specific logic
-  - Runtime extension and pallet development
-  - Distributed and consensus-aware engineering
+*   **Custom Substrate Protocol Development:** Engineering chain-specific logic and runtime extensions (pallets) for unique decentralized requirements.
+*   **High-Performance Smart Contracts:** Developing on-chain programs (Solana/Anchor) designed for high-throughput transactional environments.
+*   **Security & Consent Architectures:** Building blockchain-backed identity layers that replace traditional, siloed SSO with decentralized, consent-based access models.
 
-- **Solana and Anchor development**
-  - Smart contracts and on-chain logic
-  - High-performance blockchain application components
-  - Wallet, transaction, and program-level integration
-
-- **Solidity-based contract systems**
-  - Smart contract logic for decentralized workflows
-  - Security-conscious design and execution
-  - Web3 product integration
-
-- **Web3 product engineering**
-  - Infrastructure and application layers for blockchain products
-  - Identity, trust, and transaction-centric flows
-  - Systems built for reliability and scalability
 
 ### AI x Blockchain
 This is where I work on the intersection of automation, trust, and decentralized systems:
