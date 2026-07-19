@@ -18,9 +18,9 @@
 I design and build software systems where reliability, automation, and scalability matter.
 
 My background spans:
-- full-stack product engineering
 - AI infrastructure and agentic systems
 - blockchain protocol engineering
+- full-stack product engineering
 - cloud-native architecture
 - technical leadership and delivery ownership
 
