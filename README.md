@@ -35,7 +35,7 @@ I work across the stack with:
 
 ## Core Skills
 
-### AI & Automation
+### AI Engineering
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF6F00?style=for-the-badge)
 ![AI infrastructure](https://img.shields.io/badge/AI%20infrastructure-000000?style=for-the-badge)
 ![AI agents](https://img.shields.io/badge/AI%20agents-FF6F00?style=for-the-badge)
@@ -50,7 +50,7 @@ I work across the stack with:
 ![Expert systems](https://img.shields.io/badge/Expert%20systems-000000?style=for-the-badge)
 ![Vector databases](https://img.shields.io/badge/Vector%20databases-DE0000?style=for-the-badge&logo=qdrant)
 
-### Blockchain & Web3
+### Blockchain Protocol Engineering
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
 ![Smart contracts](https://img.shields.io/badge/Smart%20contracts-363636?style=for-the-badge)
 ![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana)
